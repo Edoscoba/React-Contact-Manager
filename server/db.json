@@ -1,0 +1,90 @@
+{
+  "contacts": [
+    {
+      "id": "AA@55123",
+      "name": "Brad Gideon",
+      "photo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTtuphMb4mq-EcVWhMVT8FCkv5dqZGgvn_QiA&s",
+      "mobile": "09012636433",
+      "email": "simon@gmail.com",
+      "title": "blochain dev",
+      "company": "HCL technilogies",
+      "group": "1"
+    },
+    {
+      "id": "Aexdv123",
+      "name": "simon",
+      "photo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTtuphMb4mq-EcVWhMVT8FCkv5dqZGgvn_QiA&s",
+      "mobile": "09012636433",
+      "email": "simon@gmail.com",
+      "title": "youtuber",
+      "company": "HCL technilogies",
+      "group": "2"
+    },
+    {
+      "id": "AA@jh23",
+      "name": "steven Clown",
+      "photo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTtuphMb4mq-EcVWhMVT8FCkv5dqZGgvn_QiA&s",
+      "mobile": "09012636433",
+      "email": "simon@gmail.com",
+      "title": "Politician",
+      "company": "National Assembly",
+      "group": "3"
+    },
+    {
+      "id": "AA@43123",
+      "name": "simon",
+      "photo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTtuphMb4mq-EcVWhMVT8FCkv5dqZGgvn_QiA&s",
+      "mobile": "09012636433",
+      "email": "simon@gmail.com",
+      "title": "blochain dev",
+      "company": "HCL technilogies",
+      "group": "4"
+    },
+    {
+      "id": "AA@55123",
+      "name": "John paul",
+      "photo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTtuphMb4mq-EcVWhMVT8FCkv5dqZGgvn_QiA&s",
+      "mobile": "09012636433",
+      "email": "simon@gmail.com",
+      "title": "blochain dev",
+      "company": "HCL technilogies",
+      "group": "5"
+    },
+    {
+      "id": "AA@55343",
+      "name": "Elons Mubarack",
+      "photo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTtuphMb4mq-EcVWhMVT8FCkv5dqZGgvn_QiA&s",
+      "mobile": "09012636433",
+      "email": "simon@gmail.com",
+      "title": "Fashion designer",
+      "company": "Fashion",
+      "group": "1"
+    }
+  ],
+  "groups": [
+    {
+      "id": "1",
+      "name": "Colleague"
+    },
+    {
+      "id": "1",
+      "name": "Friends"
+    },
+    {
+      "id": "2",
+      "name": "Family"
+    },
+    {
+      "id": "3",
+      "name": "Service"
+    },
+    {
+      "id": "4",
+      "name": "Community"
+    },
+    {
+      "id": "5",
+      "name": "Social"
+    }
+  ]
+}
